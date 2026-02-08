@@ -5,6 +5,7 @@ Nontapat (21, and getting older [help 😢])
 -----------------------------------------------------------------------------------------------------
 call me Mark, Software developer student seeking for more skill </br>
 enjoy cooking,music,games,anime and drawing.</br>
+alway take a chace of possibility.</br>
 passion on something New and Cute! 
 
 --STATUS--</br>
