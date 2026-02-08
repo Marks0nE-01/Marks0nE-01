@@ -11,7 +11,7 @@ passion on something New and Cute!
 bachelor of information technology, undergraduate (last year)
 
 --LANGUAGE--</br>
-Thai(fluent),Eng(usetable for working)
+Thai(fluent),Eng(useable for working)
 
 
 --TECHSTACK-- 
@@ -48,7 +48,6 @@ Thai(fluent),Eng(usetable for working)
 
 -----------------------------------------------------------------------------------------------------
 
-I started Interest About AI for now. I Believes that silly little Artificial Intelligence ANIME Things will cure humanity one day -w-. 
 
 </br>
 </br>
