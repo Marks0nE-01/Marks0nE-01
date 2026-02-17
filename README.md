@@ -11,7 +11,7 @@
 
 ### 🎮 Player Status
 - **Class:** `Fullstack Developer (Final Year)`
-- **Specialty:** Web Development & Automation Testing
+- **Specialty:** Software Development & Automation Testing
 - **Hobbies:** 🍳 Cooking, 🎧 Music, 🎮 Games, ⛩️ Anime, 🎨 Drawing
 
 ---
