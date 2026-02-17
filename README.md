@@ -1,66 +1,57 @@
+# Hi there, I'm Mark! (Nontapat) ✦ 
+<p align="left">
+  <img src="https://img.shields.io/badge/Age-21-FF69B4?style=flat-square&logo=cakephp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Final_Year_IT_Student-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Language-Thai_%2F_English-success?style=flat-square" />
+</p>
 
+> **"A Software Developer student seeking for more skills, always taking a chance of possibility. Passionate about something New and Cute!"**
 
+---
 
-Nontapat (21, and getting older [help 😢])
------------------------------------------------------------------------------------------------------
-call me Mark, Software developer student seeking for more skill </br>
-enjoy cooking,music,games,anime and drawing.</br>
-alway take a chace of possibility.</br>
-passion on something New and Cute! 
+### 🎮 Player Status
+- **Class:** `Fullstack Developer (Final Year)`
+- **Specialty:** Web Development & Automation Testing
+- **Hobbies:** 🍳 Cooking, 🎧 Music, 🎮 Games, ⛩️ Anime, 🎨 Drawing
 
---STATUS--</br>
-bachelor of information technology, undergraduate (last year)
+---
 
---LANGUAGE--</br>
-Thai(fluent),Eng(useable for working)
+### 🛠 Tech Stack (My Skills)
 
+#### 🌐 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
+</p>
 
---TECHSTACK-- 
+#### 🧩 Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bun,mysql,firebase,python" />
+</p>
+
+#### 🤖 Testing & Automation
 
 <p align="left">
-  <!-- 🌐 Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" width="48" height="48"/>
-
-  <!-- 🧩 Backend / Database -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="48" height="48"/>
-
-
-  <!-- 🧠 Programming / Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="40" height="40" />
-
-  <!-- 🎮 Game / Creative -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/renpy/renpy-original.svg" width="40" height="40" />
-
-  <!-- 🧭 Productivity -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" height="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="40" height="40"/> 
 </p>
 
 
------------------------------------------------------------------------------------------------------
 
 
-</br>
-</br>
+#### 🧠 Tools & Collaboration
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,notion,discord,slack" />
+</p>
 
+#### 🎨 Game & Creative
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/renpy/renpy-original.svg" width="48" height="48" title="Ren'Py" />
+</p>
+
+---
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/MeoFWw-08c8AAAAd/persona-persona-3.gif"
-       alt="Aigis Persona 3"
-       width="320">
+  <img src="https://media1.tenor.com/m/MeoFWw-08c8AAAAd/persona-persona-3.gif" width="320" alt="Aigis Persona 3">
+  <br>
+  <i>"Life is quite funny"</i>
 </p>
-
-
-
-
-
