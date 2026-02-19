@@ -9,14 +9,14 @@
 
 ---
 
-### 🎮 Player Status
-- **Class:** `Fullstack Developer (Final Year)`
+### INFO
+- **Role:** `Fullstack Developer (Final Year)`
 - **Specialty:** Software Development & Automation Testing
 - **Hobbies:** 🍳 Cooking, 🎧 Music, 🎮 Games, ⛩️ Anime, 🎨 Drawing
 
 ---
 
-### 🛠 Tech Stack (My Skills)
+### Skills
 
 #### 🌐 Frontend
 <p align="left">
